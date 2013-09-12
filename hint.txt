@@ -1,2 +1,12 @@
-heap to Integer array的方法
+heap to Integer array
 Integer[] score = heap.toArray(new Integer[heap.size()]);
+
+List Palindrome --> Stack 
+Longest Consecutive Sequence --> HashSet (add,remove)
+Largest Increasing Sequence --> n^2 DP
+(Interval Weight, Cross Bridge, PlaceBox)
+
+Array find max twice sum(element j appears later than i)
+--> Best Time to Buy and Sell Stock III
+
+
